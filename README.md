@@ -1,12 +1,12 @@
 ---
 
-## 🧠 Overview
+🧠 Overview
 
-> Alpha Bot is a next-gen WhatsApp automation system powered by AI logic, designed for speed, simplicity, and global scalability.
+«Alpha Bot is a next-gen WhatsApp automation system powered by AI logic, designed for speed, simplicity, and global scalability.»
 
 ---
 
-## 😈 Hacker Mode Features
+😈 Hacker Mode Features
 
 ✔️ Secure pairing system 🔐
 ✔️ Session ID authentication
@@ -15,7 +15,7 @@
 
 ---
 
-## 🚀 Startup Power
+🚀 Startup Power
 
 ✔️ Clean architecture
 ✔️ Scalable system design
@@ -24,7 +24,7 @@
 
 ---
 
-## 🎮 Gaming Energy
+🎮 Gaming Energy
 
 🎯 Fast response time
 ⚡ Real-time interaction
@@ -32,7 +32,7 @@
 
 ---
 
-## 🧠 AI Core
+🧠 AI Core
 
 🤖 Smart automation
 📊 Intelligent responses
@@ -40,7 +40,7 @@
 
 ---
 
-## ⚙️ How It Works
+⚙️ How It Works
 
 1. Enter your phone number
 2. Receive pairing code / session ID
@@ -49,45 +49,43 @@
 
 ---
 
-## 📷 Preview
+📷 Preview
 
-[https://files.catbox.moe/g5pysq.jpg](https://files.catbox.moe/g5pysq.jpg)
-
----
-
-## 🛠️ Tech Stack
-
-* Node.js
-* Baileys
-* Express
-* HTML/CSS
+"https://files.catbox.moe/g5pysq.jpg" (https://files.catbox.moe/g5pysq.jpg)
 
 ---
 
-## 🚀 Installation
+🛠️ Tech Stack
 
-```bash
+- Node.js
+- Baileys
+- Express
+- HTML/CSS
+
+---
+
+🚀 Installation
+
 git clone https://github.com/Alpha11-09/alpha.git
 cd alpha
 npm install
 npm start
-```
 
 ---
 
-## 🌍 Vision
+🌍 Vision
 
-> Building the future of automation tools that are simple, powerful, and accessible worldwide.
+«Building the future of automation tools that are simple, powerful, and accessible worldwide.»
 
 ---
 
-## ⭐ Support
+⭐ Support
 
 If you like this project, give it a ⭐ and follow for more 🔥
 
 ---
 
-## 👑 Author
+👑 Author
 
 Alpha
 
