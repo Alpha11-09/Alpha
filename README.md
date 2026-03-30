@@ -1,70 +1,69 @@
----
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%"/>
+</p><h1 align="center">💀 ALPHA BOT</h1><p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&center=true&vCenter=true&lines=SYSTEM+INITIALIZING...;ACCESS+GRANTED+🔓;ALPHA+BOT+ONLINE+💀;WELCOME+TO+THE+UNDERGROUND"/>
+</p><p align="center">
+  <img src="https://img.shields.io/badge/status-ONLINE-red"/>
+  <img src="https://img.shields.io/badge/security-HIGH-black"/>
+  <img src="https://img.shields.io/badge/system-AI--CORE-darkred"/>
+  <img src="https://komarev.com/ghpvc/?username=Alpha11-09&color=red"/>
+</p><p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Alpha11-09&show_icons=true&theme=vision-friendly-dark"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alpha11-09&theme=highcontrast"/>
+</p><p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alpha11-09&layout=compact&theme=vision-friendly-dark"/>
+</p>---
 
-🧠 Overview
+🧠 SYSTEM OVERVIEW
 
-«Alpha Bot is a next-gen WhatsApp automation system powered by AI logic, designed for speed, simplicity, and global scalability.»
-
----
-
-😈 Hacker Mode Features
-
-✔️ Secure pairing system 🔐
-✔️ Session ID authentication
-✔️ Anti-spam protection
-✔️ Lightweight & stealth performance
-
----
-
-🚀 Startup Power
-
-✔️ Clean architecture
-✔️ Scalable system design
-✔️ Easy deployment
-✔️ User-friendly interface
+«Alpha Bot is a classified AI-powered WhatsApp automation system engineered for speed, stealth, and dominance.»
 
 ---
 
-🎮 Gaming Energy
+💀 DARK FEATURES
 
-🎯 Fast response time
-⚡ Real-time interaction
-🏆 Optimized performance
-
----
-
-🧠 AI Core
-
-🤖 Smart automation
-📊 Intelligent responses
-🌍 Global compatibility
+✔️ Encrypted pairing system 🔐
+✔️ Session hijack-resistant authentication
+✔️ Anti-spam firewall
+✔️ Stealth execution mode
 
 ---
 
-⚙️ How It Works
+⚡ CORE POWER
 
-1. Enter your phone number
-2. Receive pairing code / session ID
-3. Connect instantly
-4. Start automation
-
----
-
-📷 Preview
-
-"https://files.catbox.moe/g5pysq.jpg" (https://files.catbox.moe/g5pysq.jpg)
+✔️ High-speed execution
+✔️ Scalable infrastructure
+✔️ Lightweight engine
+✔️ Global deployment ready
 
 ---
 
-🛠️ Tech Stack
+🎮 PERFORMANCE MODE
 
-- Node.js
-- Baileys
-- Express
-- HTML/CSS
+🎯 Instant response
+⚡ Real-time sync
+🏆 Optimized runtime
 
 ---
 
-🚀 Installation
+🤖 AI ENGINE
+
+🧠 Smart automation
+📊 Adaptive responses
+🌍 Multi-region support
+
+---
+
+⚙️ EXECUTION FLOW
+
+1. Input target number
+2. Generate secure pairing code
+3. Establish session
+4. Deploy automation
+
+---
+
+💻 TERMINAL ACCESS
 
 git clone https://github.com/Alpha11-09/alpha.git
 cd alpha
@@ -73,19 +72,34 @@ npm start
 
 ---
 
-🌍 Vision
+📷 VISUAL FEED
 
-«Building the future of automation tools that are simple, powerful, and accessible worldwide.»
-
----
-
-⭐ Support
-
-If you like this project, give it a ⭐ and follow for more 🔥
+"Preview" (https://files.catbox.moe/g5pysq.jpg)
 
 ---
 
-👑 Author
+🌑 MISSION
+
+«Redefining automation through intelligence, speed, and control.»
+
+---
+
+🕶️ LIVE SYSTEM STATUS
+
++ STATUS: ONLINE
++ SECURITY: MAXIMUM
++ USERS: ACTIVE
+- THREATS: BLOCKED
+
+---
+
+⭐ SUPPORT
+
+«Drop a ⭐ if you survived the system 💀»
+
+---
+
+👑 AUTHOR
 
 Alpha
 
