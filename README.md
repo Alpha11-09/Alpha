@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%"/>
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="100%"/>
 </p><h1 align="center">💀 ALPHA BOT</h1><p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&center=true&vCenter=true&lines=SYSTEM+INITIALIZING...;ACCESS+GRANTED+🔓;ALPHA+BOT+ONLINE+💀;WELCOME+TO+THE+UNDERGROUND"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&center=true&vCenter=true&lines=SYSTEM+INITIALIZING...;ACCESS+GRANTED+🔓;ALPHA+BOT+ONLINE+💀;INTRUDERS+WILL+BE+TERMINATED"/>
 </p><p align="center">
   <img src="https://img.shields.io/badge/status-ONLINE-red"/>
-  <img src="https://img.shields.io/badge/security-HIGH-black"/>
+  <img src="https://img.shields.io/badge/security-MAXIMUM-black"/>
   <img src="https://img.shields.io/badge/system-AI--CORE-darkred"/>
   <img src="https://komarev.com/ghpvc/?username=Alpha11-09&color=red"/>
 </p><p align="center">
@@ -78,18 +78,27 @@ npm start
 
 ---
 
-🌑 MISSION
-
-«Redefining automation through intelligence, speed, and control.»
-
----
-
-🕶️ LIVE SYSTEM STATUS
+🕶️ SYSTEM STATUS
 
 + STATUS: ONLINE
 + SECURITY: MAXIMUM
-+ USERS: ACTIVE
-- THREATS: BLOCKED
++ ACCESS: GRANTED
+- THREATS: ELIMINATED
+
+---
+
+🚨 ALERT LOG
+
+[!] Unauthorized access attempt detected...
+[✓] Firewall engaged
+[✓] Intruder blocked
+[✓] System integrity stable
+
+---
+
+🌑 MISSION
+
+«Redefining automation through intelligence, speed, and control.»
 
 ---
 
