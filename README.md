@@ -74,7 +74,7 @@ npm start
 
 📷 VISUAL FEED
 
-https://files.catbox.moe/g5pysq.jpg
+![Preview](https://files.catbox.moe/g5pysq.jpg)
 
 ---
 
